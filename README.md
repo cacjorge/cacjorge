@@ -4,11 +4,9 @@ Graduated in Computer Engineering. Master's in Computer Science. Currently a doc
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cacjorge)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/carlos-antonio-b427b57a/) [<img src='https://www.gov.br/cnpq/pt-br/canais_atendimento/identidade-visual/logo_escbitmap.jpg' alt='CNPQ' height='40'>](http://lattes.cnpq.br/3411037996732397)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacjorge)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacjorge)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cacjorge&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/cacjorge)  
 
 ![Profile views](https://gpvc.arturio.dev/cacjorge)  
 
