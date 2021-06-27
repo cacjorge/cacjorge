@@ -2,7 +2,7 @@
 #### HPC Developer | Data Scientist | AI Scientist | Engineer
 Graduated in Computer Engineering. Master's in Computer Science. Currently a doctoral candidate from the University of Brasilia. Experience in Artificial Intelligence, Computer Vision (OpenCV), Multivariate Analysis, Evolutionary Algorithms, Regression, Robotics and High Performance Computing.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cacjorge)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/carlos-antonio-b427b57a/) [<img src='http://buscatextual.cnpq.br/buscatextual/images/v2/logo_cnpq.png' alt='CNPQ' height='40'>](http://lattes.cnpq.br/3411037996732397)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cacjorge)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/carlos-antonio-b427b57a/) [<img src='https://www.gov.br/cnpq/pt-br/canais_atendimento/identidade-visual/logo_escbitmap.jpg' alt='CNPQ' height='40'>](http://lattes.cnpq.br/3411037996732397)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cacjorge)](https://github.com/anuraghazra/github-readme-stats)
 
