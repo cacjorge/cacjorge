@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Carlos Antônio
 #### HPC Developer | PhD | AI Scientist | Engineer
-Graduated in Computer Engineering. Master's in Computer Science. Doctor from the University of Brasilia. Experience in Artificial Intelligence, Computer Vision (OpenCV), Multivariate Analysis, Evolutionary Algorithms, Regression, Robotics and High Performance Computing.
+Graduated in Computer Engineering. Master's in Computer Science. Doctor in Informatics. Experience in Artificial Intelligence, Computer Vision (OpenCV), Multivariate Analysis, Evolutionary Algorithms, Regression, Robotics and High Performance Computing.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cacjorge)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/carlos-antonio-b427b57a/) [<img src='https://www.gov.br/cnpq/pt-br/canais_atendimento/identidade-visual/logo_escbitmap.jpg' alt='CNPQ' height='40'>](http://lattes.cnpq.br/3411037996732397)
 
